@@ -1,0 +1,2 @@
+# magento-2-reseller-extension
+The Magento 2 Reseller Extension is a tool to create a professional program to manage and reward the resellers who make high volumes of purchase at the store. It empowers the store owners to assign all resellers to different groups based on the customers’ spending and give them equivalent discounts. Moreover, there is an automatic system for the reseller rank promotion or demotion.
