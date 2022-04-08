@@ -183,7 +183,7 @@ In this way, the store can stimulate resellers’ spending wisely and effectivel
 
 </div>
 
-As you can see, the <strong><a href="https://www.tigren.com/magento-2-extensions" rel="nofollow">Magento 2 Reseller Extension</a></strong>is very useful but simple and easy to use. By using this plugin, you not only attract more people to become your resellers but also boost their purchases at your store.<strong>
+As you can see, the <strong><a href="https://www.tigren.com/magento-2-extensions" rel="nofollow">Magento 2 Reseller Extension</a></strong> is very useful but simple and easy to use. By using this plugin, you not only attract more people to become your resellers but also boost their purchases at your store.<strong>
 </strong>
 
 </div>
